@@ -1,0 +1,16 @@
+#mountains{
+    height: 200px;
+    width: 400px;
+}
+#valleys{
+    height: 200px;
+    width: 400px;
+}
+#big_trees{
+    height: 200px;
+    width: 400px;
+}
+#small_trees{
+    height: 200;
+    width: 500px;
+}
